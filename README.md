@@ -20,7 +20,13 @@ During the class session, we engaged in brainstorming and created preliminary sk
 
 After class, we continued to refine our ideas and finalized the overall design.
 In the prototyping phase, we used wooden sticks and other accessible materials to construct the mock-up, and visualized the project through a poster designed in Adobe Illustrator.
+![93eebce5afb1f370eaa552e6865a36f2](https://github.com/user-attachments/assets/aabe778c-5688-4fa6-a50a-8271720ba0cf)
+![568a2de317d47c2fa3d777646c474651](https://github.com/user-attachments/assets/be338622-7b17-46ce-b936-77d9f097d08b)
+![29ac3c887248274b472f595a76809d4e](https://github.com/user-attachments/assets/cbffd6c8-95aa-4ed3-926c-1185f02c6ced)
+
+Here are the photos of our mock-up and poster:
 ![869e96114cc83a0d63c77d625a9acb40](https://github.com/user-attachments/assets/0fdc6529-341d-442e-9768-f930a8c112f0)
 ![978a395585af45ed50b8182128bef824](https://github.com/user-attachments/assets/4e2290e2-a060-4081-89a1-2f8c930cb56a)
 ![732123291c691b3ff463b87790d3fae9](https://github.com/user-attachments/assets/1ab34dab-39ad-402e-b87c-8dc12e8607d0)
-![29ac3c887248274b472f595a76809d4e](https://github.com/user-attachments/assets/cbffd6c8-95aa-4ed3-926c-1185f02c6ced)
+![7377f13051378810d3be55c107b51c13](https://github.com/user-attachments/assets/c73181d1-4f19-4ff6-976f-5fed93375f7a)
+
