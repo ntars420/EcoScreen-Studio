@@ -14,11 +14,12 @@ The system integrates four redesigned functional modules:
 
 ## Process Documentation:
 During the class session, we engaged in brainstorming and created preliminary sketches of the concept.
-![f94acabcecf9e0d![d8ac4f7de5be7c59948e81fdb2ac8ba3](https://github.com/user-attachments/assets/239a7f15-810b-4989-b539-df9c97e8ed0d)
-![d8ac4f7de5be7c59948e81fdb2ac8ba3](https://github.com/user-attachments/assets/2f1411ea-c270-4284-a1e9-9395a46843e0)
+![f94acabcecf9e0df8d0101f2dff03c71](https://github.com/user-attachments/assets/99c8a9ea-87cb-4965-9dd8-bc92285fedb2)
+![d8ac4f7de5be7c59948e81fdb2ac8ba3](https://github.com/user-attachments/assets/a6e220b5-634a-4fcd-a3d1-7d889fd32fbb)
+
 
 After class, we continued to refine our ideas and finalized the overall design.
-In the prototyping phase, we used wooden sticks and other accessible materials to construct the model, and visualized the project through a poster designed in Adobe Illustrator.
+In the prototyping phase, we used wooden sticks and other accessible materials to construct the mock-up, and visualized the project through a poster designed in Adobe Illustrator.
 ![869e96114cc83a0d63c77d625a9acb40](https://github.com/user-attachments/assets/0fdc6529-341d-442e-9768-f930a8c112f0)
 ![978a395585af45ed50b8182128bef824](https://github.com/user-attachments/assets/4e2290e2-a060-4081-89a1-2f8c930cb56a)
 ![732123291c691b3ff463b87790d3fae9](https://github.com/user-attachments/assets/1ab34dab-39ad-402e-b87c-8dc12e8607d0)
