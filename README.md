@@ -1,6 +1,6 @@
 # EcoScreen-Studio
 ——A Sustainable Reinvention of Screen Printing
-## How might we reinterpret the screen printing process in small-scale FabLab settings using stickers, woodworking, and special inks (or digital cutting and innovative materials)?
+## How might we reinterpret the screen printing process in small-scale FabLab settings using stickers, woodworking, and special inks— making it more accessible, eco-friendly, and creatively engaging?
 EcoScreen Studio centers on the principles of simplicity and sustainability, rethinking the traditional screen-printing process.
 It abandons complex chemical plate-making and industrial machinery, transforming screen printing into a low-tech, eco-friendly, and accessible form of creative practice.
 Its design goals are to optimize printing procedures and address practical challenges in production; lower technical barriers so that more people can engage in screen-printing activities; reduce pollution and waste through the use of sustainable materials; and reestablish printing as a handcrafted art form that fosters dialogue between people and materials.
