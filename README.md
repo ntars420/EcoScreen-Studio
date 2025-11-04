@@ -4,7 +4,7 @@
 The project explores the transformation of screen printing from a two-dimensional process to a three-dimensional form.
 By using innovative media such as UV glue, water-soluble materials, and foaming inks — and experimenting with different material combinations and fabrication methods — we aim to free screen printing from its traditional flat expression, turning it into a malleable and constructive three-dimensional craft.
 This experiment challenges the conventional notion of “printing = image,” redefining the process of screen printing as a generative act of interaction between material, space, and craftsmanship.
-
+![3229d6fb53b92297abb5fa6852381103](https://github.com/user-attachments/assets/9075fd9c-f2b0-4dcb-b223-5112105ef7d7)
 
 ## 2.Process Documentation:
 ### Brainstorming
@@ -90,3 +90,9 @@ We need to conduct feasibility tests on each part of the plan. First, we perform
 ### Long-term goal: 
 1.Develop Dissolvable Structure Printing into an open, reproducible 3D printing process.By standardizing materials and workflows, this technique can be easily replicated and taught within FabLabs and maker spaces, enabling public participation in creative production.This direction aims not only to extend screen printing from the two-dimensional to the spatial, but also to build a shared creative platform—transforming printing into a constructive language accessible to everyone.
 2.Explore the application of this technique in textile design, art installations, and maker education.Through cross-disciplinary collaboration, the process can be applied to 3D-printed garments, spatial decorations, experimental art, and interactive works—showcasing the creative potential of building form through printing. This direction redefines screen printing as a cross-media language of creation rather than a mere technical process.
+
+## Team Members
+- 李雅洁 Li Yajie
+- 袁若菡 Yuan Ruohan
+- 于若哲 Yu Ruozhe
+- 赵雪敏 Zhao Xuemin
