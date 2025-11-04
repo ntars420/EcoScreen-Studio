@@ -84,7 +84,9 @@ We believe that our plan has innovative potential in areas such as clothing deco
 ## 5.Future Directions
 Considering the innovation of the scheme, theoretical printing quality and other aspects, we decided to choose the direction of Dissolvable Structure Printing for deepening.
 
-Short-term goal: Conduct tests in fablab to verify the feasibility of the materials.
+### Short-term goal: Conduct tests in fablab to verify the feasibility of the materials.
+We need to conduct feasibility tests on each part of the plan. First, we perform experiments on the mesh of the frame part to test the influence and conditions of its off-mesh spacing and mesh thickness on material penetration and the production process. Second, we test the feasibility of PVA material and silica gel to determine if they can be the cutting-edge materials for our subsequent cured product production. Third, we test the oven. Conduct tests in terms of temperature, drying time, etc., to determine the optimal conditions for material curing. Fourth, we test the dissolution conditions of the water-soluble part, adjust the temperature of the warm water used for immersion and the immersion time, and find the appropriate conditions for dissolving only this part. Finally, we look for feasible substrates. Clothes of different materials, acrylic plates, etc., are our test objects to test the stability of the printed material and its impact on the substrates.
 
-Long-term goal: Collaborate with designers in the fashion field to create practical products.
-
+### Long-term goal: 
+1.Develop Dissolvable Structure Printing into an open, reproducible 3D printing process.By standardizing materials and workflows, this technique can be easily replicated and taught within FabLabs and maker spaces, enabling public participation in creative production.This direction aims not only to extend screen printing from the two-dimensional to the spatial, but also to build a shared creative platform—transforming printing into a constructive language accessible to everyone.
+2.Explore the application of this technique in textile design, art installations, and maker education.Through cross-disciplinary collaboration, the process can be applied to 3D-printed garments, spatial decorations, experimental art, and interactive works—showcasing the creative potential of building form through printing. This direction redefines screen printing as a cross-media language of creation rather than a mere technical process.
