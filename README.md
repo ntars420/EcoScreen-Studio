@@ -7,7 +7,13 @@ This experiment challenges the conventional notion of “printing = image,” re
 
 
 ## 2.Process Documentation:
-During the class session, we engaged in brainstorming and created preliminary sketches of the concept.Initially, we began by discussing existing screen printing processes to explore innovation possibilities. Our exploration ranged from modular magnetic wood frames to segmented screens, and even considering replacing photosensitive ink with stickers. Ultimately, we settled on using printed stickers as plate substitutes, with ultra-thin wooden rods installed around the frames. After tensioning the screen, we secured it through these rods to create natural tension in our process design, resulting in the physical model shown below. 
+### Brainstorming
+During the class session, we engaged in brainstorming and created preliminary sketches of the concept.Initially, we began by discussing existing screen printing processes to explore innovation possibilities. Our exploration ranged from modular magnetic wood frames to segmented screens, and even considering replacing photosensitive ink with stickers.
+![f94acabcecf9e0df8d0101f2dff03c71](https://github.com/user-attachments/assets/99c8a9ea-87cb-4965-9dd8-bc92285fedb2)
+![d8ac4f7de5be7c59948e81fdb2ac8ba3](https://github.com/user-attachments/assets/a6e220b5-634a-4fcd-a3d1-7d889fd32fbb)
+![f626c7be78e351587a18cc60dc6eaffc](https://github.com/user-attachments/assets/db40c46b-8856-46be-87a4-3567b42ef12b)
+
+Ultimately, we settled on using printed stickers as plate substitutes, with ultra-thin wooden rods installed around the frames. After tensioning the screen, we secured it through these rods to create natural tension in our process design, resulting in the physical model shown below. 
 ![1254bd99f7811f0da8ac5032f567088d](https://github.com/user-attachments/assets/4e3b6934-2357-411d-9a01-6f02c9ee2db1)
 ![8ef7ab38e28016d47b3f98bae6dfe4f9](https://github.com/user-attachments/assets/9b23ddbf-b6e0-4421-a889-c39a3fb7998c)
 
@@ -27,9 +33,6 @@ Application: Three-dimensional, living art pieces.
 ### Layered Relief Printing（多层浮雕印刷）
 Application: 3D fabric prints, small sculptural objects, and tactile artworks.
 <img width="2360" height="1640" alt="8a6fe12173d3fd522b35e96f347dc83e" src="https://github.com/user-attachments/assets/ded284ab-93b8-414f-8fd4-06ee635e18c8" />
-![f94acabcecf9e0df8d0101f2dff03c71](https://github.com/user-attachments/assets/99c8a9ea-87cb-4965-9dd8-bc92285fedb2)
-![d8ac4f7de5be7c59948e81fdb2ac8ba3](https://github.com/user-attachments/assets/a6e220b5-634a-4fcd-a3d1-7d889fd32fbb)
-![f626c7be78e351587a18cc60dc6eaffc](https://github.com/user-attachments/assets/db40c46b-8856-46be-87a4-3567b42ef12b)
 
 ### Model making
 In the prototyping phase, we used wooden sticks and other accessible materials to construct the mock-up, and visualized the project through a poster designed in Adobe Illustrator.
@@ -41,7 +44,7 @@ The model production steps are as follows: First, for the main frame part, bond 
 ![568a2de317d47c2fa3d777646c474651](https://github.com/user-attachments/assets/be338622-7b17-46ce-b936-77d9f097d08b)
 ![29ac3c887248274b472f595a76809d4e](https://github.com/user-attachments/assets/cbffd6c8-95aa-4ed3-926c-1185f02c6ced)
 
-Here are the photos of our mock-up and poster:
+### Here are the photos of our mock-up and poster:
 ![869e96114cc83a0d63c77d625a9acb40](https://github.com/user-attachments/assets/0fdc6529-341d-442e-9768-f930a8c112f0)
 ![978a395585af45ed50b8182128bef824](https://github.com/user-attachments/assets/4e2290e2-a060-4081-89a1-2f8c930cb56a)
 ![732123291c691b3ff463b87790d3fae9](https://github.com/user-attachments/assets/1ab34dab-39ad-402e-b87c-8dc12e8607d0)
@@ -62,7 +65,8 @@ In water-soluble support printing, is the dissolution effect of the soluble mate
 What about the cost of these innovative materials (UV resin, water-soluble media, foaming ink, etc.)?
 Regarding the dissolution effect, we mentioned that further experiments would be needed to verify it. As for materials, we chose commonly available, low-cost substances that can easily be sourced and used in a fab lab context.
 After our explanation, many students said they were eager to try applying this technique to their own design assignments.
-![769fba7554a4e4a8a0906439ab7c597c](https://github.com/user-attachments/assets/80be2061-1ac5-4f3b-9f8e-684249bdc22e)
+![db660be2115350747be9c31ff553b1e8](https://github.com/user-attachments/assets/8bfea942-058f-4d34-8e84-026913169ac6)
+
 
 
 A teacher from another university also affirmed our project, describing it as “a bold exploration in material experimentation and process innovation.”
@@ -78,7 +82,9 @@ We believe that our plan has innovative potential in areas such as clothing deco
 
 
 ## 5.Future Directions
-Short-term goal: Conduct tests in fablab to verify the feasibility of the materials
+Considering the innovation of the scheme, theoretical printing quality and other aspects, we decided to choose the direction of Dissolvable Structure Printing for deepening.
 
-Long-term goal: Collaborate with designers in the fashion field to create practical products
+Short-term goal: Conduct tests in fablab to verify the feasibility of the materials.
+
+Long-term goal: Collaborate with designers in the fashion field to create practical products.
 
