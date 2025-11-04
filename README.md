@@ -26,6 +26,7 @@ Application: 3D fabric prints, small sculptural objects, and tactile artworks.
 During the class session, we engaged in brainstorming and created preliminary sketches of the concept.
 ![f94acabcecf9e0df8d0101f2dff03c71](https://github.com/user-attachments/assets/99c8a9ea-87cb-4965-9dd8-bc92285fedb2)
 ![d8ac4f7de5be7c59948e81fdb2ac8ba3](https://github.com/user-attachments/assets/a6e220b5-634a-4fcd-a3d1-7d889fd32fbb)
+![f626c7be78e351587a18cc60dc6eaffc](https://github.com/user-attachments/assets/db40c46b-8856-46be-87a4-3567b42ef12b)
 
 
 After class, we continued to refine our ideas and finalized the overall design.
@@ -44,6 +45,34 @@ Here are the photos of our mock-up and poster:
 ![978a395585af45ed50b8182128bef824](https://github.com/user-attachments/assets/4e2290e2-a060-4081-89a1-2f8c930cb56a)
 ![732123291c691b3ff463b87790d3fae9](https://github.com/user-attachments/assets/1ab34dab-39ad-402e-b87c-8dc12e8607d0)
 ![3229d6fb53b92297abb5fa6852381103](https://github.com/user-attachments/assets/9075fd9c-f2b0-4dcb-b223-5112105ef7d7)
+
+## Feedback
+We came to the Makerfaire and received some comments and advices from visiters.
+![5c4368488c0e8853097e64e611337945](https://github.com/user-attachments/assets/4519a659-a723-440f-baae-c3d10152a808)
+![935337fa6f5470b02ed529bb26766e56](https://github.com/user-attachments/assets/ed6a520e-fd74-4a4d-a770-0229394ce0ac)
+
+
+Several design students showed strong interest in our project, saying that the idea of “constructing form through printing” felt refreshing and original.
+One of them commented, “It’s like realizing the idea of 3D printing by hand — very inspiring.”
+They also raised several questions:
+In water-soluble support printing, is the dissolution effect of the soluble material stable?
+What about the cost of these innovative materials (UV resin, water-soluble media, foaming ink, etc.)?
+Regarding the dissolution effect, we mentioned that further experiments would be needed to verify it. As for materials, we chose commonly available, low-cost substances that can easily be sourced and used in a fab lab context.
+After our explanation, many students said they were eager to try applying this technique to their own design assignments.
+![769fba7554a4e4a8a0906439ab7c597c](https://github.com/user-attachments/assets/80be2061-1ac5-4f3b-9f8e-684249bdc22e)
+
+
+A teacher from another university also affirmed our project, describing it as “a bold exploration in material experimentation and process innovation.”
+He provided some valuable suggestions on feasibility — for example, how to control the growth cycle and form of the bio-ink printing, and how the viscosity of UV resin might affect the mesh permeability. He suggested we try adjusting viscosity by heating or dilution.
+These comments helped us realize that our proposal is still in an early stage, but also offered important insights for improvement.
+
+A young boy, around seven or eight years old, was drawn to the printed textures on our poster.
+We explained the basic principle of screen printing to him, and his parent remarked that our project had both educational and playful qualities, making it suitable for children’s workshops and art activities.
+They suggested that this kind of 3D print pattern could be great for decorating children’s products, while also reminding us that the safety of the special inks and materials would be an important consideration.
+
+## Refletion
+
+
 
 ## Future Directions
 
