@@ -1,16 +1,35 @@
-# EcoScreen-Studio
-——A Sustainable Reinvention of Screen Printing
-### How might we reinterpret the screen printing process in small-scale FabLab settings using stickers, woodworking, and special inks— making it more accessible, eco-friendly, and creatively engaging?
-EcoScreen Studio centers on the principles of simplicity and sustainability, rethinking the traditional screen-printing process.
-It abandons complex chemical plate-making and industrial machinery, transforming screen printing into a low-tech, eco-friendly, and accessible form of creative practice.
-Its design goals are to optimize printing procedures and address practical challenges in production; lower technical barriers so that more people can engage in screen-printing activities; reduce pollution and waste through the use of sustainable materials; and reestablish printing as a handcrafted art form that fosters dialogue between people and materials.
+# Printed Dimension（印之维度）: Reconstructing Screen Printing in Three Dimensions
+中文名：印之维度 —— 丝网印刷的立体再构
+设计说明：
+“印之维度”项目探索丝网印刷从二维向三维的形态转变。
+我们通过使用UV胶、水溶性材料及发泡油墨等创新介质，尝试不同的材料组合和加工方式，让丝印脱离传统的平面表达，成为一种可塑、可构的立体工艺。
+这一实验尝试打破“印刷＝图像”的认知边界，使丝印过程成为材料、空间与手工互动的生成行为。
+The project explores the transformation of screen printing from a two-dimensional process to a three-dimensional form.
+By using innovative media such as UV glue, water-soluble materials, and foaming inks — and experimenting with different material combinations and fabrication methods — we aim to free screen printing from its traditional flat expression, turning it into a malleable and constructive three-dimensional craft.
+This experiment challenges the conventional notion of “printing = image,” redefining the process of screen printing as a generative act of interaction between material, space, and craftsmanship.
 
-## System Structure
-The system integrates four redesigned functional modules:
-1. Sticker Mask System：Printed adhesive films are used in place of photosensitive emulsions, eliminating chemical exposure and the need for UV development. This method is eco-friendly, reduces environmental pollution caused by chemical agents, and at the same time simplifies the process and minimizes errors during operation.
-2. Rod-Locked Wooden Frame：Fine wooden rods are installed around the frame. After the mesh is stretched, it is secured through the rods to create natural tension, eliminating the need for a professional stretching machine. The frame is easy to tighten, reusable, and user-friendly.
-3. Sliding Squeegee Mechanism：Wooden rods are designed with slots to hold squeegees of different sizes.During printing, the rods are placed across the wooden screen frame, allowing the user to apply even pressure by simply sliding the rod.This design ensures smoother, more consistent, and easier operation.
-4. Hybrid Ink Composition：A water-soluble eco-friendly ink is used as the base layer, upon which a layer of foam ink is printed.After the foam ink is cured, the water-soluble ink is washed away, leaving behind a raised pattern.This process creates a three-dimensional tactile effect and visual depth in the printed design.
+一句话：我们如何在低技术的 FabLab 环境中，通过创新油墨与材料实验，重新诠释丝网印刷工艺，创造具有立体形态的作品？
+How might we, in a low-tech FabLab environment, explore innovative printing materials and techniques to reinvent screen printing and create three-dimensional works?
+
+
+### Dissolvable Structure Printing（可溶支撑立体印刷）
+Application: 3D hollow prints on garments and textiles.（用途：衣服等织物上的中空立体印花）
+<img width="246" height="171" alt="image" src="https://github.com/user-attachments/assets/9cf6841f-232b-4170-92e4-4989e2f9c3b8" />
+<img width="155" height="223" alt="image" src="https://github.com/user-attachments/assets/6490e61e-a138-46d9-97b5-82b707809a31" />
+
+
+### Living Ink Printing（生长型油墨印刷）
+Application: Three-dimensional, living art pieces.（制作立体艺术画作）
+<img width="161" height="249" alt="image" src="https://github.com/user-attachments/assets/9b571034-9480-49da-ae0c-46c68109de49" />
+
+
+### Layered Relief Printing（多层浮雕印刷）
+Application: 3D fabric prints, small sculptural objects, and tactile artworks.
+(用途：制作织物上的立体印花、小型的立体摆件和艺术品)
+<img width="230" height="160" alt="image" src="https://github.com/user-attachments/assets/ccb9e088-2853-4dc8-93af-12ceed64145f" />
+
+
+
 
 ## Process Documentation:
 During the class session, we engaged in brainstorming and created preliminary sketches of the concept.
@@ -28,5 +47,5 @@ Here are the photos of our mock-up and poster:
 ![869e96114cc83a0d63c77d625a9acb40](https://github.com/user-attachments/assets/0fdc6529-341d-442e-9768-f930a8c112f0)
 ![978a395585af45ed50b8182128bef824](https://github.com/user-attachments/assets/4e2290e2-a060-4081-89a1-2f8c930cb56a)
 ![732123291c691b3ff463b87790d3fae9](https://github.com/user-attachments/assets/1ab34dab-39ad-402e-b87c-8dc12e8607d0)
-![7377f13051378810d3be55c107b51c13](https://github.com/user-attachments/assets/c73181d1-4f19-4ff6-976f-5fed93375f7a)
+
 
